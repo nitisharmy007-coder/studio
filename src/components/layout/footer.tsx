@@ -13,7 +13,7 @@ export function Footer() {
     <footer className="border-t bg-background">
       <div className="container flex h-14 items-center justify-center">
         <p className="text-sm text-muted-foreground">
-          &copy; {year} LearnWeb. All rights reserved.
+          &copy; {year} LearnWeb. All reserved.
         </p>
       </div>
     </footer>
